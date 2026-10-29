@@ -11,3 +11,7 @@ docs/*
 !docs/publication-policy.md
 !docs/s1-walkthrough.md
 !docs/roadmap.md
+!docs/design-decisions.md
+!docs/response-assurance.md
+!docs/engineering-notes.md
+!docs/evidence-guide.md
