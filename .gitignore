@@ -9,3 +9,5 @@ docs/*
 !docs/verification.md
 !docs/repositories.md
 !docs/publication-policy.md
+!docs/s1-walkthrough.md
+!docs/roadmap.md
