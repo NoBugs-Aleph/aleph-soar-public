@@ -1,0 +1,11 @@
+# Publish only reviewed documentation.
+*
+!README.md
+!.gitignore
+!docs/
+docs/*
+!docs/architecture.md
+!docs/scenarios.md
+!docs/verification.md
+!docs/repositories.md
+!docs/publication-policy.md
