@@ -51,4 +51,4 @@ S1의 앱 차단 성공을 S10 방화벽 집행 성공으로 확대하지 않습
 시간 창·기존 차단·열린 티켓이 다음 실행에 섞이지 않도록 새 실행과 원복 상태를
 기록합니다. 기능 수와 로컬 테스트 수 대신 실제 흐름의 검증 범위를 보고합니다.
 
-[대응 보호 장치](response-assurance.md) · [S1 실측](s1-walkthrough.md)
+[대응 보호 장치](response-assurance.md) · [S8·S10 집행 위치별 실측](integration-walkthrough.md) · [S1 초기 실측](s1-walkthrough.md)

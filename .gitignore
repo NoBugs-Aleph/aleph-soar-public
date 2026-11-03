@@ -15,3 +15,5 @@ docs/*
 !docs/response-assurance.md
 !docs/engineering-notes.md
 !docs/evidence-guide.md
+!docs/integration-walkthrough.md
+!docs/member-contribution.md
